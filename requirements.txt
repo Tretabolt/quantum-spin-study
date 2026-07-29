@@ -1,0 +1,17 @@
+# Mecânica Quântica e Spintronics
+qutip>=4.7.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+scipy>=1.7.0
+
+# Simulação (opcional)
+# kwant>=1.4.0  # Transporte quântico
+# quantum-espresso  # DFT (C/C++ separado)
+
+# Visualização
+seaborn>=0.12.0
+plotly>=5.0.0
+
+# Jupyter (para notebooks)
+jupyter>=1.0.0
+ipywidgets>=7.0.0
