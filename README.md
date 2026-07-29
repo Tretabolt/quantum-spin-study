@@ -74,3 +74,14 @@ Este repositório é para fins educacionais. Sinta-se livre para usar e contribu
 ---
 
 *Estudo criado em 29 de julho de 2026*
+
+### 7. [Teste de Fundo de Cristal](docs/07-teste-cristal-fundo.md)
+- Detecção de spins em cristais comuns
+- Método de Gouy: balança de susceptibilidade magnética
+- [Lista de Materiais](src/experimentos/lista_materiais.md)
+- [Análise de Dados](src/experimentos/analise_dados.py)
+
+### 8. [Experimentos Práticos](src/experimentos/)
+- [teste_cristal_fundo.md](src/experimentos/teste_cristal_fundo.md) - Guia completo do experimento
+- [analise_dados.py](src/experimentos/analise_dados.py) - Script de análise de dados
+- [lista_materiais.md](src/experimentos/lista_materiais.md) - Lista de compras
